@@ -10,5 +10,5 @@ Meu nome é Maria Laura
 
   00001105727051@aluno.educacao.sp.gov.br
 
-![](![image](https://github.com/mariaalaura/Mariaalaura/assets/173270802/b654b415-60ee-458a-8c94-8914dd1df8d4)
+(![image](https://github.com/mariaalaura/Mariaalaura/assets/173270802/b654b415-60ee-458a-8c94-8914dd1df8d4)
 
